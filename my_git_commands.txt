@@ -1,0 +1,6 @@
+# 1) Here i'm cloning the new repos
+
+command: git clone https://github.com/narendraba/Git-learning.git my-project-name
+
+
+
